@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Steve Hanson</h1>
 <h3 align="center">I’m a senior Full Stack developer with 10+ years of experience and I can design and build wide range of web & mobile applications. I am highly skilled in writing clean and maintainable codes, building reusable components, designing mobile-first responsive web applications, and developing user-friendly mobile applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stevehansondev&label=Profile%20views&color=0e75b6&style=flat" alt="stevehansondev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stevehansondev" alt="stevehansondev" /></a> </p>
 
 - 📫 How to reach me **stevehanson206@gmail.com**
